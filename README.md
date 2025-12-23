@@ -20,7 +20,7 @@ This package includes:
 
 ## Screenshots
 
-![Hackatime Desktop](https://example.com/screenshot.png)
+![Hackatime Desktop](https://github.com/user-attachments/assets/6bdf0f89-032d-44df-807e-0173e0ee23f2)
 
 ## Building from Source
 
